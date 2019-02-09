@@ -20,5 +20,6 @@ end
 
 def using_size(array)
   # array.length
-  array.count
+  # array.count
+  array.size
 end
